@@ -58,9 +58,4 @@ Encrypting confidential business data
 Securing personal information
 Any real-world security application
 
-For Production Security
-Do NOT use this tool for:
-Protecting passwords or credentials
-Encrypting confidential business data
-Securing personal information
-Any real-world security application
+Thanks you !!
